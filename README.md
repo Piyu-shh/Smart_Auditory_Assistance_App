@@ -92,7 +92,5 @@ Accessed by swiping left from the Home Page. The Camera Page provides advanced o
 
 ## 🔧 Backend
 
-> *(You can add details about the technologies, architecture, APIs, or models used here.)*
-
----
+-https://github.com/Piyu-shh/OD-OCR-fastAPI
 
